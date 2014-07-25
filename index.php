@@ -1548,7 +1548,7 @@ switch ($cPath) {
 
 						
 
-<?   new contentBoxHeading('New Products');  ?>
+<?  // new contentBoxHeading('New Products');  ?>
 
 
 
