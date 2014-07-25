@@ -270,7 +270,7 @@ switch ($cPath) {
 
 <!-- left_navigation //-->
 
-<?php //require(DIR_WS_INCLUDES . 'column_left.php'); ?>
+<?php require(DIR_WS_INCLUDES . 'column_left.php'); ?>
 
 <!-- left_navigation_eof //-->
 
